@@ -8,6 +8,10 @@ This package uses ```catkin build```. Tested on Ubuntu 20.04.
 ```
 sudo apt install libeigen3-dev
 ```
+### Epoxy
+```
+sudo apt-get install libepoxy-dev
+```
 ### Pangolin
 ```
 cd ~
